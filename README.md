@@ -87,11 +87,11 @@ npm install
 To set the respective modules used. 
 
 ```
-npm gulp
+gulp
 npm start
 ```
 
-So you can use the aplication in development mode, "npm gulp" sets the scss transition into css (you can add any other useful tasks you want as well) and "npm start" just starts the app.
+So you can use the aplication in development mode. Writting "gulp" on the terminal sets the scss transition into css (you can add any other useful tasks you want as well) while watching any changes made so when you save it repeats the task once again and "npm start" just starts the app.
 
 If you want to use this project in a website use:
 
